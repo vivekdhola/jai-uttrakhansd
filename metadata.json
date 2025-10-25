@@ -1,0 +1,7 @@
+{
+  "name": "Jai Uttrakhand",
+  "description": "An online toolkit offering a suite of tools to manage and manipulate digital files, powered by Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
